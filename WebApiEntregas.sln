@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEntregas", "WebApiEntregas\WebApiEntregas.csproj", "{0BA5FE70-62BF-4C60-ADC3-478E0198D8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA5FE70-62BF-4C60-ADC3-478E0198D8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA5FE70-62BF-4C60-ADC3-478E0198D8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA5FE70-62BF-4C60-ADC3-478E0198D8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA5FE70-62BF-4C60-ADC3-478E0198D8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137BB430-3F28-428D-8A9F-669F689CA565}
+	EndGlobalSection
+EndGlobal
